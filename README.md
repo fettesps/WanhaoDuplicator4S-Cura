@@ -1,7 +1,6 @@
 # WanhaoDuplicator4S-Cura
 
 ## Intro
-Wanhao Duplicator 4S setup files and instructions for Cura
 Whoever created the profile for the Wanhao Duplicator 4S in Cura either had never seen one before or completely mixed up the files for another printer.  Most notably it did not contain the definition for a second extruder which meant you couldn't even attempt to use it in Cura.
 
 After recently reformating my laptop and realizing I had forgot to backup my configuration for Cura I went to work getting it setup again and this time documenting it in case I lost it again.  Plus I figured someone else may find it handy some day.
