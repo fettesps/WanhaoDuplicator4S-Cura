@@ -15,6 +15,8 @@ You will need install the X3GWriter plugin by Seva Alekseyev.  To install it cli
 ## Addendum
 I highly recommend using OctoPrint if you have an extra Raspbery Pi lying around.  You can download it at https://octoprint.org/download/. Once again you will want to download and install the X3G plugin at https://plugins.octoprint.org/plugins/gpx/.
 
+It's also worth noting that I've pretty much retired this printer as of 2023.  So I would not expect any more updates on this repo.  If you are interested in keeping it alive, feel free to fork it and create a pull request if you make any enhancements!
+
 ## References
 https://reprap.org/wiki/G-code
 
