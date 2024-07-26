@@ -17,6 +17,8 @@ I highly recommend using OctoPrint if you have an extra Raspbery Pi lying around
 
 It's also worth noting that I've pretty much retired this printer as of 2023.  So I would not expect any more updates on this repo.  If you are interested in keeping it alive, feel free to fork it and create a pull request if you make any enhancements!
 
+As of July 2024 I no longer have a Wanhoa Duplicator 4S as I have passed it along to someone else, so I would not expect any more updates to this repo. Feel free to fork it if you have anything to contribute!
+
 ## References
 https://reprap.org/wiki/G-code
 
